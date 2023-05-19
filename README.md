@@ -9,14 +9,13 @@ This project simulates a vending machine, allowing users to select items and mak
 2-Quiz Game:
 Have fun testing your knowledge with this interactive quiz game. It presents a series of questions and keeps track of your score, providing feedback after each response.
 
-Tree Generation with Turtle: 
+3-Tree Generation with Turtle: 
 Utilizing the Turtle graphics library, this project creates beautiful tree. You can experiment with different parameters to generate trees of varying shapes and sizes.
 
-The Netflix Logo Generator
+4-The Netflix Logo Generator
 the project is using the Turtle library to create a representation of the iconic Netflix logo.
 
-
-The Virus Creation project :
+5-The Virus Creation project :
 This project that utilizes the Turtle library to generate interesting and visually appealing virus-like images. By leveraging Python's image manipulation capabilities with Turtle, this project demonstrates how to programmatically create intricate patterns and designs resembling viruses.
 
 Getting Started:
@@ -24,7 +23,7 @@ To use these projects on your local machine, follow these steps:
 
 1-Clone the Repository:
 Start by cloning this repository to your computer using the following command:
-git clone https://github.com/your-username/python-projects.git
+git clone https://github.com/Sanashaheen/Python-Projects.git
 
 2-Choose a Project:
 Browse through the project folders and select the one you wish to explore and download it and run in your system.
