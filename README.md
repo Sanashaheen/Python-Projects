@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>Python-Projects</title>
+  
 </head>
 
 <body>
