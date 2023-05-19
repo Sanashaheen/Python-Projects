@@ -3,32 +3,6 @@
 
 <head>
   <title>Python-Projects</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.5;
-      margin: 20px;
-    }
-
-    h1 {
-      font-size: 24px;
-    }
-
-    h2 {
-      font-size: 20px;
-      margin-top: 20px;
-    }
-
-    ul {
-      margin: 0;
-      padding: 0;
-      list-style: none;
-    }
-
-    li {
-      margin-bottom: 10px;
-    }
-  </style>
 </head>
 
 <body>
